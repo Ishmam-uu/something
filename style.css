@@ -8,9 +8,12 @@ h1{
 .name-highlight{
     color: rgb(255, 30, 0);
 }
-button{
-    color: aqua;
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
 }
-.sing{
-    color:rgb(126, 22, 22) ;
+.half-width img{
+    width: 100%;
 }
